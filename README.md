@@ -1,2 +1,4 @@
 # Aita
-This is a repository included  all data of my bachelor thesis
+Aita - Artifical intelligence teaching assisant for rapidly marking essays
+
+This  repository includes all data used in my bachelor thesis.
